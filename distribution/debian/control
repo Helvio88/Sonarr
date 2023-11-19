@@ -13,6 +13,6 @@ Architecture: all
 Provides: nzbdrone
 Conflicts: nzbdrone
 Replaces: nzbdrone
-Depends: adduser, libsqlite3-0 (>= 3.7), ${cli:Depends}, ${misc:Depends}
+Depends: adduser, libsqlite3-0 (>= 3.7), ${misc:Depends}
 Suggests: sqlite3 (>= 3.7)
 Description: Internet PVR
